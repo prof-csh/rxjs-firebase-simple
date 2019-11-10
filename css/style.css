@@ -1,0 +1,12 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.title * {
+  display: inline;
+  vertical-align: middle;
+}
+
+pre {
+  margin: 0
+}
